@@ -2,7 +2,7 @@
 A very simple snake game written in Python. My first Python project.
 
 ## Controls
-The controls are vely simple
+The controls are very simple
 | Action | Key | 
 | ------ | --- |
 | move forward | W |
